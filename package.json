@@ -1,6 +1,6 @@
 {
   "name": "yup-locale-ru",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Русская локализация для пакета валидации Yup",
   "keywords": ["yup", "yup russia", "yup russia locale", "yup русский", "yup locale", "yup русский язык", "yup русская локализация"],
   "main": "locale.js",
